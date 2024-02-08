@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elif baruş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif baruş" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elif-baruş-6983a8161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif baruş" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/elifbarus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elifbarus" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/elifbaruss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elifbaruss" height="30" width="40" /></a>
 </p>
